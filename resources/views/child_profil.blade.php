@@ -76,7 +76,7 @@
         </tr>
         <tr>
             <th>Anak ke</th>
-            <td>1 dari 2 bersaudra</td>
+            <td>1 dari 2 bersaudara</td>
         </tr>
         <tr>                
             <th>Jenis Kelamin</th>
