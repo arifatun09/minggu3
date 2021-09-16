@@ -72,7 +72,7 @@
         </tr>
         <tr>
             <th>Tempat/Tanggal Lahir</th>
-            <td>Kediri, 09 Mei 2021</td>
+            <td>Kediri, 09 Mei 2001</td>
         </tr>
         <tr>
             <th>Anak ke</th>
