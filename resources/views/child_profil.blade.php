@@ -68,7 +68,7 @@
         </tr>
         <tr>
             <th>Jurusan</th>
-            <td>Teknologi Iinformasi</td>
+            <td>Teknologi Informasi</td>
         </tr>
         <tr>
             <th>Tempat/Tanggal Lahir</th>
